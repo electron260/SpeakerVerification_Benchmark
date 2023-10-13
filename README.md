@@ -1,6 +1,6 @@
 # Speaker Verification Project
 
-This project aims to test three different models for speaker verification using audio samples from the IEMOCAP dataset. We randomly selected 10 samples from each of the 5 IEMOCAP sessions, with 2 speakers from each session, resulting in a total of 50 audio samples for evaluation.
+This project aims to test three different models for speaker verification using audio samples from the IEMOCAP dataset. We randomly selected 20 samples for each speaker of the 5 IEMOCAP sessions, resulting in a total of 200 audio samples for evaluation.
 
 ## Models
 
