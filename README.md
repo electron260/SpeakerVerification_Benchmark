@@ -26,10 +26,10 @@ We report the Equal Error Rate (EER) for the predictions made by each of the thr
 
 Here are the EER results for each model at different threshold values:
 
-| Model       | Threshold 0.3 | Threshold 0.4 | Threshold 0.5 | Threshold 0.6 | Threshold 0.7 |
-|-------------|---------------|---------------|---------------|---------------|---------------|
-| ECAPA-TDN   | EER Value     | EER Value     | EER Value     | EER Value     | EER Value     |
-| Resnet      | EER Value     | EER Value     | EER Value     | EER Value     | EER Value     |
-| CAM++       | EER Value     | EER Value     | EER Value     | EER Value     | EER Value     |
+| Model       | Threshold 0.1 | Threshold 0.15 | Threshold 0.2 | Threshold 0.25 | Threshold 0.3 | Threshold 0.4 | Threshold 0.5 | Threshold 0.6 | Threshold 0.7 |
+|-------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
+| ECAPA-TDN   | 22.14%         | 17.07%        | 16.36%        | 18.89%        | 21.94%        | 29.46%       | 36.35%        | 41.19%        | 44.14%        |
+| Resnet      | 31.90%         | 26.04%        | 23.22%        | 23.14%        | 24.54%        | 29.76%       | 35.54%        | 40.93%        | 44.14%        |
+| CAM++       | 24.22%         | 17.55%        | 14.20%        | 14.79%        | 16.77%        | 23.52%       | 30.96%        | 37.12%        | 42.17%        |
 
 
