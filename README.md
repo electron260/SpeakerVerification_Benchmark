@@ -18,6 +18,10 @@ For comparing the audio samples, we computed the cosine distance between the emb
 
 We report the Equal Error Rate (EER) for the predictions made by each of the three models. EER is a metric that quantifies the trade-off between false acceptance and false rejection rates for various threshold values. The following threshold values were used in our evaluation:
 
+- 0.1
+- 0.15
+- 0.2
+- 0.25
 - 0.3
 - 0.4
 - 0.5
